@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091651508452",
+    "firebase_url": "https://prowriting-780b3.firebaseio.com",
+    "project_id": "prowriting-780b3",
+    "storage_bucket": "prowriting-780b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091651508452:android:46bc97c389a03216",
+        "android_client_info": {
+          "package_name": "com.tauhidmonwar.prowriting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091651508452-j7n7l765cm12fvm0hvu4ct39gk4kujnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tauhidmonwar.prowriting",
+            "certificate_hash": "a21cd0c8b0024ee4f0eb6599ac7f87b6fc6b1bcb"
+          }
+        },
+        {
+          "client_id": "1091651508452-bqii61m5lvul23lv5mibl8cavqlmd569.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujywtPmQiqu9CrMRkHwsd5D9jirSZ69U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091651508452-bqii61m5lvul23lv5mibl8cavqlmd569.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

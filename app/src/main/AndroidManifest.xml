@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tauhidmonwar.prowriting">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/micon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/micon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.tauhidmonwar.prowriting.A49"></activity>
+        <activity android:name="com.tauhidmonwar.prowriting.A48" />
+        <activity android:name="com.tauhidmonwar.prowriting.A47" />
+        <activity android:name="com.tauhidmonwar.prowriting.A46" />
+        <activity android:name="com.tauhidmonwar.prowriting.A45" />
+        <activity android:name="com.tauhidmonwar.prowriting.A44" />
+        <activity android:name="com.tauhidmonwar.prowriting.A43" />
+        <activity android:name="com.tauhidmonwar.prowriting.A42" />
+        <activity android:name="com.tauhidmonwar.prowriting.A41" />
+        <activity android:name="com.tauhidmonwar.prowriting.A40" />
+        <activity android:name="com.tauhidmonwar.prowriting.A39" />
+        <activity android:name="com.tauhidmonwar.prowriting.A38" />
+        <activity android:name="com.tauhidmonwar.prowriting.A36" />
+        <activity android:name="com.tauhidmonwar.prowriting.A35" />
+        <activity android:name="com.tauhidmonwar.prowriting.D49" />
+        <activity android:name="com.tauhidmonwar.prowriting.D48" />
+        <activity android:name="com.tauhidmonwar.prowriting.D47" />
+        <activity android:name="com.tauhidmonwar.prowriting.D46" />
+        <activity android:name="com.tauhidmonwar.prowriting.D45" />
+        <activity android:name="com.tauhidmonwar.prowriting.D44" />
+        <activity android:name="com.tauhidmonwar.prowriting.D43" />
+        <activity android:name="com.tauhidmonwar.prowriting.D42" />
+        <activity android:name="com.tauhidmonwar.prowriting.D41" />
+        <activity android:name="com.tauhidmonwar.prowriting.D40" />
+        <activity android:name="com.tauhidmonwar.prowriting.D39" />
+        <activity android:name="com.tauhidmonwar.prowriting.D38" />
+        <activity android:name="com.tauhidmonwar.prowriting.D37" />
+        <activity android:name="com.tauhidmonwar.prowriting.D36" />
+        <activity android:name="com.tauhidmonwar.prowriting.D35" />
+        <activity android:name="com.tauhidmonwar.prowriting.S99" />
+        <activity android:name="com.tauhidmonwar.prowriting.S98" />
+        <activity android:name="com.tauhidmonwar.prowriting.S97" />
+        <activity android:name="com.tauhidmonwar.prowriting.S96" />
+        <activity android:name="com.tauhidmonwar.prowriting.S95" />
+        <activity android:name="com.tauhidmonwar.prowriting.S94" />
+        <activity android:name="com.tauhidmonwar.prowriting.S93" />
+        <activity android:name="com.tauhidmonwar.prowriting.S92" />
+        <activity android:name="com.tauhidmonwar.prowriting.S91" />
+        <activity android:name="com.tauhidmonwar.prowriting.S90" />
+        <activity android:name="com.tauhidmonwar.prowriting.S89" />
+        <activity android:name="com.tauhidmonwar.prowriting.S88" />
+        <activity android:name="com.tauhidmonwar.prowriting.S87" />
+        <activity android:name="com.tauhidmonwar.prowriting.S86" />
+        <activity android:name="com.tauhidmonwar.prowriting.S85" />
+        <activity android:name="com.tauhidmonwar.prowriting.S84" />
+        <activity android:name="com.tauhidmonwar.prowriting.S83" />
+        <activity android:name="com.tauhidmonwar.prowriting.S82" />
+        <activity android:name="com.tauhidmonwar.prowriting.S81" />
+        <activity android:name="com.tauhidmonwar.prowriting.S80" />
+        <activity android:name="com.tauhidmonwar.prowriting.S79" />
+        <activity android:name="com.tauhidmonwar.prowriting.S78" />
+        <activity android:name="com.tauhidmonwar.prowriting.S77" />
+        <activity android:name="com.tauhidmonwar.prowriting.S76" />
+        <activity android:name="com.tauhidmonwar.prowriting.S75" />
+        <activity android:name="com.tauhidmonwar.prowriting.S74" />
+        <activity android:name="com.tauhidmonwar.prowriting.S73" />
+        <activity android:name="com.tauhidmonwar.prowriting.S72" />
+        <activity android:name="com.tauhidmonwar.prowriting.S71" />
+        <activity android:name="com.tauhidmonwar.prowriting.S70" />
+        <activity android:name="com.tauhidmonwar.prowriting.S69" />
+        <activity android:name="com.tauhidmonwar.prowriting.S68" />
+        <activity android:name="com.tauhidmonwar.prowriting.S67" />
+        <activity android:name="com.tauhidmonwar.prowriting.S66" />
+        <activity android:name="com.tauhidmonwar.prowriting.S65" />
+        <activity android:name="com.tauhidmonwar.prowriting.S64" />
+        <activity android:name="com.tauhidmonwar.prowriting.S63" />
+        <activity android:name="com.tauhidmonwar.prowriting.S62" />
+        <activity android:name="com.tauhidmonwar.prowriting.S61" />
+        <activity android:name="com.tauhidmonwar.prowriting.S60" />
+        <activity android:name="com.tauhidmonwar.prowriting.S59" />
+        <activity android:name="com.tauhidmonwar.prowriting.S58" />
+        <activity android:name="com.tauhidmonwar.prowriting.S57" />
+        <activity android:name="com.tauhidmonwar.prowriting.S56" />
+        <activity android:name="com.tauhidmonwar.prowriting.S55" />
+        <activity android:name="com.tauhidmonwar.prowriting.S54" />
+        <activity android:name="com.tauhidmonwar.prowriting.S53" />
+        <activity android:name="com.tauhidmonwar.prowriting.S52" />
+        <activity android:name="com.tauhidmonwar.prowriting.S51" />
+        <activity android:name="com.tauhidmonwar.prowriting.S50" />
+        <activity android:name="com.tauhidmonwar.prowriting.S49" />
+        <activity android:name="com.tauhidmonwar.prowriting.S48" />
+        <activity android:name="com.tauhidmonwar.prowriting.S47" />
+        <activity android:name="com.tauhidmonwar.prowriting.S46" />
+        <activity android:name="com.tauhidmonwar.prowriting.S45" />
+        <activity android:name="com.tauhidmonwar.prowriting.S44" />
+        <activity android:name="com.tauhidmonwar.prowriting.S43" />
+        <activity android:name="com.tauhidmonwar.prowriting.S42" />
+        <activity android:name="com.tauhidmonwar.prowriting.S41" />
+        <activity android:name="com.tauhidmonwar.prowriting.S40" />
+        <activity android:name="com.tauhidmonwar.prowriting.S39" />
+        <activity android:name="com.tauhidmonwar.prowriting.S38" />
+        <activity android:name="com.tauhidmonwar.prowriting.S37" />
+        <activity android:name="com.tauhidmonwar.prowriting.A37" />
+        <activity android:name="com.tauhidmonwar.prowriting.S36" />
+        <activity android:name="com.tauhidmonwar.prowriting.S35" />
+        <activity android:name="com.tauhidmonwar.prowriting.S34" />
+        <activity android:name="com.tauhidmonwar.prowriting.S33" />
+        <activity android:name="com.tauhidmonwar.prowriting.S32" />
+        <activity android:name="com.tauhidmonwar.prowriting.S31" />
+        <activity android:name="com.tauhidmonwar.prowriting.S30" />
+        <activity android:name="com.tauhidmonwar.prowriting.S29" />
+        <activity android:name="com.tauhidmonwar.prowriting.S28" />
+        <activity android:name="com.tauhidmonwar.prowriting.S27" />
+        <activity android:name="com.tauhidmonwar.prowriting.S26" />
+        <activity android:name="com.tauhidmonwar.prowriting.S25" />
+        <activity android:name="com.tauhidmonwar.prowriting.S24" />
+        <activity android:name="com.tauhidmonwar.prowriting.S23" />
+        <activity android:name="com.tauhidmonwar.prowriting.S22" />
+        <activity android:name="com.tauhidmonwar.prowriting.S21" />
+        <activity android:name="com.tauhidmonwar.prowriting.S20" />
+        <activity android:name="com.tauhidmonwar.prowriting.S19" />
+        <activity android:name="com.tauhidmonwar.prowriting.S18" />
+        <activity android:name="com.tauhidmonwar.prowriting.S17" />
+        <activity android:name="com.tauhidmonwar.prowriting.S16" />
+        <activity android:name="com.tauhidmonwar.prowriting.S15" />
+        <activity android:name="com.tauhidmonwar.prowriting.S14" />
+        <activity android:name="com.tauhidmonwar.prowriting.S13" />
+        <activity android:name="com.tauhidmonwar.prowriting.S12" />
+        <activity android:name="com.tauhidmonwar.prowriting.S11" />
+        <activity android:name="com.tauhidmonwar.prowriting.S10" />
+        <activity android:name="com.tauhidmonwar.prowriting.S9" />
+        <activity android:name="com.tauhidmonwar.prowriting.S8" />
+        <activity android:name="com.tauhidmonwar.prowriting.S7" />
+        <activity android:name="com.tauhidmonwar.prowriting.S6" />
+        <activity android:name="com.tauhidmonwar.prowriting.S5" />
+        <activity android:name="com.tauhidmonwar.prowriting.S4" />
+        <activity android:name="com.tauhidmonwar.prowriting.S3" />
+        <activity android:name="com.tauhidmonwar.prowriting.S2" />
+        <activity android:name="com.tauhidmonwar.prowriting.S1" />
+        <activity android:name="com.tauhidmonwar.prowriting.S0" />
+        <activity android:name="com.tauhidmonwar.prowriting.Story"
+            android:label="Story"/>
+        <activity android:name="com.tauhidmonwar.prowriting.A34" />
+        <activity android:name="com.tauhidmonwar.prowriting.A33" />
+        <activity android:name="com.tauhidmonwar.prowriting.A32" />
+        <activity android:name="com.tauhidmonwar.prowriting.A31" />
+        <activity android:name="com.tauhidmonwar.prowriting.A30" />
+        <activity android:name="com.tauhidmonwar.prowriting.A29" />
+        <activity android:name="com.tauhidmonwar.prowriting.A28" />
+        <activity android:name="com.tauhidmonwar.prowriting.A27" />
+        <activity android:name="com.tauhidmonwar.prowriting.A26" />
+        <activity android:name="com.tauhidmonwar.prowriting.A25" />
+        <activity android:name="com.tauhidmonwar.prowriting.A24" />
+        <activity android:name="com.tauhidmonwar.prowriting.A23" />
+        <activity android:name="com.tauhidmonwar.prowriting.A22" />
+        <activity android:name="com.tauhidmonwar.prowriting.A21" />
+        <activity android:name="com.tauhidmonwar.prowriting.A20" />
+        <activity android:name="com.tauhidmonwar.prowriting.A19" />
+        <activity android:name="com.tauhidmonwar.prowriting.A18" />
+        <activity android:name="com.tauhidmonwar.prowriting.A17" />
+        <activity android:name="com.tauhidmonwar.prowriting.A16" />
+        <activity android:name="com.tauhidmonwar.prowriting.A15" />
+        <activity android:name="com.tauhidmonwar.prowriting.A14" />
+        <activity android:name="com.tauhidmonwar.prowriting.A13" />
+        <activity android:name="com.tauhidmonwar.prowriting.A12" />
+        <activity android:name="com.tauhidmonwar.prowriting.A11" />
+        <activity android:name="com.tauhidmonwar.prowriting.A10" />
+        <activity android:name="com.tauhidmonwar.prowriting.A9" />
+        <activity android:name="com.tauhidmonwar.prowriting.A8" />
+        <activity android:name="com.tauhidmonwar.prowriting.A7" />
+        <activity android:name="com.tauhidmonwar.prowriting.A6" />
+        <activity android:name="com.tauhidmonwar.prowriting.A5" />
+        <activity android:name="com.tauhidmonwar.prowriting.A4" />
+        <activity android:name="com.tauhidmonwar.prowriting.A3" />
+        <activity android:name="com.tauhidmonwar.prowriting.A2" />
+        <activity android:name="com.tauhidmonwar.prowriting.A1" />
+        <activity android:name="com.tauhidmonwar.prowriting.A0" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.Application"
+            android:label="Application" />
+        <activity android:name="com.tauhidmonwar.prowriting.MainActivity" />
+        <activity android:name="com.tauhidmonwar.prowriting.D34" />
+        <activity android:name="com.tauhidmonwar.prowriting.D33" />
+        <activity android:name="com.tauhidmonwar.prowriting.D32" />
+        <activity android:name="com.tauhidmonwar.prowriting.D31" />
+        <activity android:name="com.tauhidmonwar.prowriting.D30" />
+        <activity android:name="com.tauhidmonwar.prowriting.D29" />
+        <activity android:name="com.tauhidmonwar.prowriting.D28" />
+        <activity android:name="com.tauhidmonwar.prowriting.D27" />
+        <activity android:name="com.tauhidmonwar.prowriting.D26" />
+        <activity android:name="com.tauhidmonwar.prowriting.D25" />
+        <activity android:name="com.tauhidmonwar.prowriting.D24" />
+        <activity android:name="com.tauhidmonwar.prowriting.D23" />
+        <activity android:name="com.tauhidmonwar.prowriting.D22" />
+        <activity android:name="com.tauhidmonwar.prowriting.D21" />
+        <activity android:name="com.tauhidmonwar.prowriting.D20" />
+        <activity android:name="com.tauhidmonwar.prowriting.D19" />
+        <activity android:name="com.tauhidmonwar.prowriting.D18" />
+        <activity android:name="com.tauhidmonwar.prowriting.D17" />
+        <activity android:name="com.tauhidmonwar.prowriting.D16" />
+        <activity android:name="com.tauhidmonwar.prowriting.D15" />
+        <activity android:name="com.tauhidmonwar.prowriting.D14" />
+        <activity android:name="com.tauhidmonwar.prowriting.D13" />
+        <activity android:name="com.tauhidmonwar.prowriting.D12" />
+        <activity android:name="com.tauhidmonwar.prowriting.D11" />
+        <activity android:name="com.tauhidmonwar.prowriting.D10" />
+        <activity android:name="com.tauhidmonwar.prowriting.D9" />
+        <activity android:name="com.tauhidmonwar.prowriting.D8" />
+        <activity android:name="com.tauhidmonwar.prowriting.D7" />
+        <activity android:name="com.tauhidmonwar.prowriting.D6" />
+        <activity android:name="com.tauhidmonwar.prowriting.D5" />
+        <activity android:name="com.tauhidmonwar.prowriting.D4" />
+        <activity android:name="com.tauhidmonwar.prowriting.D3" />
+        <activity android:name="com.tauhidmonwar.prowriting.D2" />
+        <activity android:name="com.tauhidmonwar.prowriting.D1" />
+        <activity android:name="com.tauhidmonwar.prowriting.D0" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.Dialogue"
+            android:label="Dialogue" />
+        <activity android:name="com.tauhidmonwar.prowriting.L49" />
+        <activity android:name="com.tauhidmonwar.prowriting.L48" />
+        <activity android:name="com.tauhidmonwar.prowriting.L47" />
+        <activity android:name="com.tauhidmonwar.prowriting.L46" />
+        <activity android:name="com.tauhidmonwar.prowriting.L45" />
+        <activity android:name="com.tauhidmonwar.prowriting.L44" />
+        <activity android:name="com.tauhidmonwar.prowriting.L43" />
+        <activity android:name="com.tauhidmonwar.prowriting.L42" />
+        <activity android:name="com.tauhidmonwar.prowriting.L41" />
+        <activity android:name="com.tauhidmonwar.prowriting.L40" />
+        <activity android:name="com.tauhidmonwar.prowriting.L39" />
+        <activity android:name="com.tauhidmonwar.prowriting.L38" />
+        <activity android:name="com.tauhidmonwar.prowriting.L37" />
+        <activity android:name="com.tauhidmonwar.prowriting.L36" />
+        <activity android:name="com.tauhidmonwar.prowriting.L35" />
+        <activity android:name="com.tauhidmonwar.prowriting.L34" />
+        <activity android:name="com.tauhidmonwar.prowriting.L33" />
+        <activity android:name="com.tauhidmonwar.prowriting.L32" />
+        <activity android:name="com.tauhidmonwar.prowriting.L31" />
+        <activity android:name="com.tauhidmonwar.prowriting.L30" />
+        <activity android:name="com.tauhidmonwar.prowriting.L29" />
+        <activity android:name="com.tauhidmonwar.prowriting.L28" />
+        <activity android:name="com.tauhidmonwar.prowriting.L27" />
+        <activity android:name="com.tauhidmonwar.prowriting.L26" />
+        <activity android:name="com.tauhidmonwar.prowriting.L25" />
+        <activity android:name="com.tauhidmonwar.prowriting.L24" />
+        <activity android:name="com.tauhidmonwar.prowriting.L23" />
+        <activity android:name="com.tauhidmonwar.prowriting.L22" />
+        <activity android:name="com.tauhidmonwar.prowriting.L21" />
+        <activity android:name="com.tauhidmonwar.prowriting.L20" />
+        <activity android:name="com.tauhidmonwar.prowriting.L18" />
+        <activity android:name="com.tauhidmonwar.prowriting.L19" />
+        <activity android:name="com.tauhidmonwar.prowriting.L17" />
+        <activity android:name="com.tauhidmonwar.prowriting.L16" />
+        <activity android:name="com.tauhidmonwar.prowriting.L15" />
+        <activity android:name="com.tauhidmonwar.prowriting.L14" />
+        <activity android:name="com.tauhidmonwar.prowriting.L13" />
+        <activity android:name="com.tauhidmonwar.prowriting.L12" />
+        <activity android:name="com.tauhidmonwar.prowriting.L11" />
+        <activity android:name="com.tauhidmonwar.prowriting.L10" />
+        <activity android:name="com.tauhidmonwar.prowriting.L9" />
+        <activity android:name="com.tauhidmonwar.prowriting.L8" />
+        <activity android:name="com.tauhidmonwar.prowriting.L7" />
+        <activity android:name="com.tauhidmonwar.prowriting.L6" />
+        <activity android:name="com.tauhidmonwar.prowriting.L5" />
+        <activity android:name="com.tauhidmonwar.prowriting.L4" />
+        <activity android:name="com.tauhidmonwar.prowriting.L3" />
+        <activity android:name="com.tauhidmonwar.prowriting.L2" />
+        <activity android:name="com.tauhidmonwar.prowriting.L1" />
+        <activity android:name="com.tauhidmonwar.prowriting.L0" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.Latter"
+            android:label="Letter" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C99"
+            android:label="Wonders Of Modern Science" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C98"
+            android:label=" Value Of Time" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C97"
+            android:label="Tourist Spots Of Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C96"
+            android:label="Tree Plantation" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C95"
+            android:label="The Rainy Season In Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C94"
+            android:label="The Post Man" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C93"
+            android:label="The Cow" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C92"
+            android:label="The Liberation War Of Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C91"
+            android:label="The Rivers Of Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C90"
+            android:label="The Dhaka City" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C89"
+            android:label="The Cinema" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C88"
+            android:label="Trade Fair" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C87"
+            android:label="Traffic Jam" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C86"
+            android:label=" Technical Education" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C85"
+            android:label="Television" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C84"
+            android:label="Terrorism" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C83"
+            android:label="Student Life" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C82"
+            android:label="Spring In Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C81"
+            android:label="Science In Everyday Life" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C80"
+            android:label="Saarc" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C79"
+            android:label="Rice" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C78"
+            android:label="Prize Giving Ceremony" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C77"
+            android:label="Punctuality" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C76"
+            android:label="Physical Exercise" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C75"
+            android:label="Patriotism" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C74"
+            android:label="Our National Fruit" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C73"
+            android:label="Our National Flowers" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C72"
+            android:label=" Our National Flag" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C71"
+            android:label="Our National Bird" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C70"
+            android:label="Our National Animal" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C69"
+            android:label="Nuclear Non-proliferation" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C68"
+            android:label="Newspaper" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C67"
+            android:label="Natural Calamities In Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C66"
+            android:label="My Pet Animal" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C65"
+            android:label="My Hobby" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C64"
+            android:label="My Favourite Teacher" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C63"
+            android:label="My Daily Life" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C62"
+            android:label="My Country" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C61"
+            android:label="My Best Friend" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C60"
+            android:label="Modern Civilization" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C59"
+            android:label="Knowledge Is Power" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C58"
+            android:label="Jute" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C57"
+            android:label="Illiteracy" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C56"
+            android:label="How To Control Pollution" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C55"
+            android:label="Honesty Is The Best Policy" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C54"
+            android:label="Health Is Wealth" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C53"
+            android:label="Hazrat Muhammad (Sm.)" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C52"
+            android:label="Ha-Du-Du" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C51"
+            android:label="Good Manners" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C50"
+            android:label="Grow More Food" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C49"
+            android:label="Globalization" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C48"
+            android:label="Global Warming" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C47"
+            android:label="Friendship" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C46"
+            android:label="Food Problem In Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C45"
+            android:label="Flowers Of Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C44"
+            android:label="Fruits Of Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C43"
+            android:label="Female Education" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C42"
+            android:label="Farmers Of Bangaldesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C41"
+            android:label="Family Planning" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C40"
+            android:label="Ekushe/21st February" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C39"
+            android:label=" Environment" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C38"
+            android:label="Electricity" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C37"
+            android:label="Eid-Ul-Fitre" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C36"
+            android:label="Early Rising" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C35"
+            android:label="Drug Addiction" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C34"
+            android:label="Domestic Animals Of Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C33"
+            android:label="Digital Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C32"
+            android:label="Dish Antena" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C31"
+            android:label="Discipline" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C30"
+            android:label="Dignity Of Labor" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C29"
+            android:label="Democracy" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C28"
+            android:label="Cyclone In Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C27"
+            android:label="Childhood Memory" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C26"
+            android:label="Cricket" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C25"
+            android:label="Computer" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C24"
+            android:label="Cell Phone Effects" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C23"
+            android:label="Cancer" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C22"
+            android:label="Blessings Of Science" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C21"
+            android:label="Birds Of Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C20"
+            android:label="Atomic Energy" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C19"
+            android:label="An ideal Student" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C18"
+            android:label="An Ideal Teacher" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C17"
+            android:label="Air Pollution" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C16"
+            android:label="Acid Rain" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C15"
+            android:label="Acid Throwing" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C14"
+            android:label="Aim In Life" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C13"
+            android:label="A Village Doctor" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C12"
+            android:label="A Village Market" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C11"
+            android:label="A Village Fair" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C10"
+            android:label="A Railway Station" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C9"
+            android:label="A Robbery" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C8"
+            android:label="A Road Accident" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C7"
+            android:label="A Marriage Ceremony" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C6"
+            android:label="A Journey By Bus" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C5"
+            android:label="A Journey By Train" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C4"
+            android:label="A Journey By Boat" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C3"
+            android:label="A Football Match" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C2"
+            android:label="A Cricket Match" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C1"
+            android:label="A Birthday Party" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.C0"
+            android:label="A book Fair" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.Composition"
+            android:label="Composition" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2182490429715106~7142213021" />
+
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P99"
+            android:label="Water Pollution" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P98"
+            android:label="Visit To A Zoo" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P97"
+            android:label="Victory Day" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P96"
+            android:label="Village Life" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P95"
+            android:label="Tree Plantation" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P94"
+            android:label="Traffic Jam" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P93"
+            android:label="The Liberation War Museum" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P92"
+            android:label="The Season I Like Most" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P91"
+            android:label="Self-employment" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P90"
+            android:label="Rohingya" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P89"
+            android:label="Pahela Baishakh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P88"
+            android:label="Physical Exercise" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P87"
+            android:label="Population Problem" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P86"
+            android:label="Price Hike" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P85"
+            android:label="Our Village" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P84"
+            android:label="Necessity Of Education" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P83"
+            android:label="Newspaper" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P82"
+            android:label="Nelson Mandela" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P81"
+            android:label="National Flag" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P80"
+            android:label="My Favorite Teacher" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P79"
+            android:label="My Favorite Food" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P78"
+            android:label="My Reading Room" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P77"
+            android:label="My Mother" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P76"
+            android:label="My Family" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P75"
+            android:label="My First Day At School" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P74"
+            android:label="My Country" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P73"
+            android:label="Mother Teresa" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P72"
+            android:label="Mobile Phone" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P71"
+            android:label="Modern Technology " />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P70"
+            android:label="May Day" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P69"
+            android:label="Load Shedding" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P68"
+            android:label="International Mother Language Day" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P67"
+            android:label="Internet" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P66"
+            android:label="Importance Of Learning English" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P65"
+            android:label="Health Is Wealth" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P64"
+            android:label="How to Improve English" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P63"
+            android:label="Honesty Is The Best Policy" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P62"
+            android:label="Global Warming" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P61"
+            android:label="Green House Effect" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P60"
+            android:label="Globalization" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P59"
+            android:label="Gender Equality" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P58"
+            android:label="Food Pyramid" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P57"
+            android:label="Food Adulteration" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P56"
+            android:label="Facebook" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P55"
+            android:label="Female Education" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P54"
+            android:label="Environment Pollution" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P53"
+            android:label="E-learning" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P52"
+            android:label="Earthquake" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P51"
+            android:label="Early Rising" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P50"
+            android:label="Digital Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P49"
+            android:label="Discipline" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P48"
+            android:label="Dengue Fever" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P47"
+            android:label="Deforestation" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P46"
+            android:label="Drug Addiction" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P45"
+            android:label="Computer" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P44"
+            android:label="College Canteen" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P43"
+            android:label="Child Labour" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P42"
+            android:label="Childhood Memories" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P41"
+            android:label="Common Birds Of Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P40"
+            android:label="Climate Change" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P39"
+            android:label="City And Village Life" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P38"
+            android:label="Birds of Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P37"
+            android:label="Bird Flue" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P36"
+            android:label="Begum Rokeya" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P35"
+            android:label="Bangladeshi Culture" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P34"
+            android:label="Bangladeshi Food" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P33"
+            android:label="Baishakhi Mela" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P32"
+            android:label="Bad Effect Of Smoking " />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P31"
+            android:label="Bangladesh" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P30"
+            android:label=" Arsenic Pollution" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P29"
+            android:label="Aim In Life" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P28"
+            android:label="An Accident" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P27"
+            android:label=" An ideal student" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P26"
+            android:label="Air Pollution" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P25"
+            android:label=" Acid Rain" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P24"
+            android:label="  Academic Friend" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P23"
+            android:label="A Winter Morning" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P22"
+            android:label="  A Village Doctor" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P21"
+            android:label=" A Village Fair" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P20"
+            android:label=" A Traffic Police" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P19"
+            android:label=" A Tea Stall" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P18"
+            android:label=" A Train Journey" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P17"
+            android:label=" A School Library" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P16"
+            android:label=" A Street Hawker" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P15"
+            android:label="A School Magazine" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P14"
+            android:label=" A Road Accident" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P13"
+            android:label=" A Rickshaw Puller" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P12"
+            android:label=" A Railway Station" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P11"
+            android:label=" A Rainy Season" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P10"
+            android:label=" A Rainy Day" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P9"
+            android:label=" A Postman" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P8"
+            android:label=" A Moonlit Night" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P7"
+            android:label=" A Garment Worker" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P6"
+            android:label=" A Fair Fighter" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P5"
+            android:label=" A Farmer" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P4"
+            android:label="A Day Labourer" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P3"
+            android:label=" A Cyclone" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P2"
+            android:label=" A Bus Stand" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P1"
+            android:label="A Book Fair" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.P0"
+            android:label="A Birthday Party" />
+        <activity
+            android:name="com.tauhidmonwar.prowriting.Paragraph"
+            android:label="Paragraph" />
+        <activity android:name="com.tauhidmonwar.prowriting.Note" />
+        <activity android:name="com.tauhidmonwar.prowriting.About" />
+        <activity
+
+            android:name="com.tauhidmonwar.prowriting.Splash"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

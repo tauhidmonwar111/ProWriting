@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+
+        <Button
+            android:id="@+id/paragraph"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginBottom="10dp"
+            android:background="#EABA0E"
+
+
+            android:text="@string/paragraph"
+            android:textColor="#ffffff"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/composition"
+            android:background="#F44336"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:text="@string/composition"
+            android:textSize="35sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            />
+
+        <Button
+            android:id="@+id/story"
+            android:background="#03A9F4"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:text="@string/story"
+            android:textSize="35sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            />
+
+
+
+        <Button
+            android:id="@+id/dialogue"
+            android:background="#4CAF50"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:text="@string/dialogue"
+            android:textSize="35sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            />
+
+
+
+        <Button
+            android:id="@+id/letter"
+            android:background="#03A9F4"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:text="@string/letter"
+            android:textSize="35sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            />
+
+
+
+
+        <Button
+            android:id="@+id/applicatiion"
+            android:background="#F44336"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:text="@string/application"
+            android:textSize="35sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+
+            />
+
+        <Button
+            android:id="@+id/note"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:text="@string/note"
+            android:textSize="35sp"
+            android:background="#EABA0E"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+
+            />
+
+
+
+    </LinearLayout>
+</ScrollView>
